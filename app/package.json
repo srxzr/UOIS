@@ -106,7 +106,7 @@
     "mkdirp": "^0.5.1",
     "nedb": "^1.8.0",
     "node-abi": "2.5.0",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "opn": "^5.2.0",
     "randomstring": "^1.1.5",
     "raven": "^2.1.0",
